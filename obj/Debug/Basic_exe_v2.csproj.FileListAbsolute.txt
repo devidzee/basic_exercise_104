@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\c_#\Basic_exe\Basic_exe_v2\bin\Debug\Basic_exe_v2.exe.config
+C:\Users\User\Desktop\c_#\Basic_exe\Basic_exe_v2\bin\Debug\Basic_exe_v2.exe
+C:\Users\User\Desktop\c_#\Basic_exe\Basic_exe_v2\bin\Debug\Basic_exe_v2.pdb
+C:\Users\User\Desktop\c_#\Basic_exe\Basic_exe_v2\obj\Debug\Basic_exe_v2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c_#\Basic_exe\Basic_exe_v2\obj\Debug\Basic_exe_v2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\c_#\Basic_exe\Basic_exe_v2\obj\Debug\Basic_exe_v2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c_#\Basic_exe\Basic_exe_v2\obj\Debug\Basic_exe_v2.exe
+C:\Users\User\Desktop\c_#\Basic_exe\Basic_exe_v2\obj\Debug\Basic_exe_v2.pdb
